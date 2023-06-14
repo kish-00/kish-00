@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kinuthia Wachira</h1>
-<h3 align="center">A passionate web developer from Kenya</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kish-00&label=Profile%20views&color=0e75b6&style=flat" alt="kish-00" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently pursuing my **Bachelor's in Computer Science Degree**
 
-- 🌱 I’m currently learning **Java spring framework**
+- 🌱 I’m currently learning **Cyber Security**
 
-- 📫 How to reach me **iankinuthia00@gmail.com**
+- 📫 How to reach me **<iankinuthia00@gmail.com>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
