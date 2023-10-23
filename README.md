@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning **Cyber Security**
 
 - 📫 How to reach me **<iankinuthia00@gmail.com>**
+- portfolio **https://iankportfolio.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
