@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kinuthiawachira" target="blank"><img src="https://img.shields.io/twitter/follow/kinuthiawachira?logo=twitter&style=for-the-badge" alt="kinuthiawachira" /></a> </p>
 
-- 🔭 I’m currently pursuing my **Bachelor's in Computer Science Degree**
+- 🔭 I'm a graduate with a **Bachelor's in Computer Science Degree**
 
 - 🌱 I’m currently learning **Cyber Security**
 
